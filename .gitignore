@@ -1,0 +1,10 @@
+**/.vs
+**/x64
+*.sln
+*.vcxproj
+*.xlsx
+eur*
+*.user
+*.bak
+.ipynb_checkpoints
+*.csv
