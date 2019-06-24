@@ -9,3 +9,5 @@ eur*
 *.bak
 .ipynb_checkpoints
 *.csv
+*.png
+
